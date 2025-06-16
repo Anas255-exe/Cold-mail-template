@@ -2,28 +2,28 @@
 
 ## **📩 Subject:**  
 **Application for Winter Internship Opportunity in Computer Science Engineering**  
-<!-- ✏️ Change "Computer Science Engineering" to your branch -->
+Change "Computer Science Engineering" to your branch 
 
----
+
 
 ## **📍 To:**  
 **[Name and Address of Your Preferred Lab/DRDO Center]**  
-<!-- ✏️ Example: Institute for Systems Studies & Analyses (ISSA), Metcalfe House, Delhi – 110054 -->
+ Example: Institute for Systems Studies & Analyses (ISSA), Metcalfe House, Delhi – 110054 
 
----
+
 
 ## **📅 Date:**  
 **[Insert Date]**  
-<!-- ✏️ Format: 28 October 2024 -->
+Format: 28 October 2024 
 
----
+
 
 ## **📝 Mail Body:**
 
 **Respected Sir/Ma’am,**
 
 My name is **[Your Full Name]**, and I am currently a **[2nd/3rd/Final]-year undergraduate student** pursuing **Computer Science Engineering** at **[Your University Name]**, **[University Address]**.  
-<!-- ✏️ Update your year, branch, and university name -->
+Update your year, branch, and university name 
 
 My academic journey has provided me with a strong foundation in core engineering concepts and practical experience in areas such as **[e.g., software development, machine learning, web technologies]** through various projects and training programs.
 
@@ -35,7 +35,7 @@ To support my application, I have attached the following documents:
 - ✅ Resume / Curriculum Vitae  
 - ✅ College ID Card  
 - ✅ Academic transcript / SGPA (if required)  
-<!-- ✏️ Include/remove as per the lab's requirements -->
+Include/remove as per the lab's requirements 
 
 I respectfully request your consideration for this internship. I am eager to contribute meaningfully to your team and gain valuable exposure to ongoing research and development efforts.
 
