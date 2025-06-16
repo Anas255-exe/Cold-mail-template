@@ -1,4 +1,4 @@
-# ❄️ Winter Internship Cold Mail Template (DRDO / Research Labs)
+# ❄️ Cold Mail Template (DRDO / Research Labs)
 
 ## **📩 Subject:**  
 **Application for Winter Internship Opportunity in Computer Science Engineering**  
